@@ -6,4 +6,10 @@
     print("Vamos Aprender Python")
   saudacao()
 
-  
+=============================================================================
+
+- Reutilização
+- Organização
+- Manutenção
+- Testabilidade
+- Legibilidade
